@@ -13,7 +13,7 @@ Jumper wires<br />
 <div>
 	<br />
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YWcjwHi7MtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=YWcjwHi7MtM">More details you can watch the video!</a>
 <br />
 <img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/SNAKEGAME/Circuit%20diagram.jpg">
 <br />
