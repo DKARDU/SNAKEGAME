@@ -14,7 +14,7 @@ Jumper wires<br />
 	<br />
 </div>
 <a href="https://www.youtube.com/watch?v=YWcjwHi7MtM">
-<img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/SNAKEGAME/%E8%B4%AA%E5%90%83%E8%9B%87%E5%B0%81%E9%9D%A21080.jpg" />
+<img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/SNAKEGAME/%E8%B4%AA%E5%90%83%E8%9B%87%E5%B0%81%E9%9D%A21080%2BYOUTUBE%20LOGO.jpg" />
 </a>
 <br />
 <img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/SNAKEGAME/Circuit%20diagram.jpg">
